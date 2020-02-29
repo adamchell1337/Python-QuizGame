@@ -1,0 +1,10 @@
+What is the closest planet to the Sun?:Mercury
+What is the name of the 2nd biggest planet in our solar system?:Saturn
+What is the hottest planet in our solar system?:Venus
+What planet is famous for its big red spot on it?:Jupiter
+What is the name of the force holding us to the Earth?:Gravity
+Have human beings ever set foot on Mars?:No
+Does the sun orbit the Earth?:No
+Olympus Mons is a large volcanic mountain on which planet?:Mars
+What is the name of the first satellite sent into space?:Sputnik
+Is the planet Neptune bigger than Earth?:Yes
